@@ -1,0 +1,143 @@
+.dangnhap1 {
+    position: absolute;
+    top: 81px;
+    left: 1101px;
+    font-size: var(--font-size-29xl);
+    display: inline-block;
+    width: 239px;
+    height: 60px;
+  }
+  .txtpass,
+  .txtuser {
+    position: absolute;
+    top: 189px;
+    left: 1051px;
+    background-color: var(--color-white);
+    width: 297px;
+    height: 38px;
+  }
+  .txtpass {
+    top: 318px;
+    width: 261px;
+    height: 29px;
+  }
+  .error-message {
+    position: absolute;
+    top: 1428px;
+    left: 509px;
+    width: 424px;
+    height: 30px;
+    color: red;
+    font-size: 14px;
+  }
+  .error-message {
+    top: 1004px;
+    left: 479px;
+  }
+  .login-child,
+  .login-inner,
+  .login-item {
+    position: absolute;
+    top: 257px;
+    left: 989px;
+    width: 458px;
+    height: 3px;
+  }
+  .login-inner,
+  .login-item {
+    top: 384px;
+  }
+  .login-inner {
+    top: 653px;
+    left: 1163px;
+    width: 109px;
+  }
+  .login-1-icon,
+  .password-1-icon {
+    position: absolute;
+    top: 195px;
+    left: 989px;
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+  }
+  .password-1-icon {
+    top: 324px;
+  }
+  .click-ghinhotoi{
+    position: absolute;
+    top: 434px;
+    left: 989px;
+    border-radius: 50%;
+    /* background-color: var(--color-silver); */
+    width: 33px;
+    height: 29px;
+  }
+  .ghinhotoi {
+    position: absolute;
+    top: 435px;
+    left: 1044px;
+    color: var(--color-black);
+    display: inline-block;
+    width: 141px;
+    height: 27px;
+  }
+  .buttonlogin {
+    position: absolute;
+    top: 527px;
+    left: 989px;
+    background-color: var(--color-midnightblue);
+    width: 458px;
+    height: 69px;
+  }
+  .dangky,
+  .dangnhap2 {
+    position: absolute;
+    display: inline-block;
+  }
+  .dangnhap2 {
+    top: 539px;
+    left: 1130px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+    width: 174px;
+    height: 38px;
+  }
+  .dangky {
+    top: 622px;
+    left: 1170px;
+    font-size: var(--font-size-5xl);
+    width: 142px;
+    height: 32px;
+  }
+  .login-child2 {
+    position: absolute;
+    top: -3px;
+    left: 0;
+    background-color: var(--color-midnightblue);
+    width: 874px;
+    height: 749px;
+  }
+  .image-3-icon1 {
+    position: absolute;
+    top: 37px;
+    left: 32px;
+    width: 809px;
+    height: 668px;
+    object-fit: cover;
+  }
+  .login {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 746px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-midnightblue);
+    font-family: var(--font-roboto);
+  }
+  .dangnhap2 a {
+    color: white;      /* Đặt màu chữ thành màu trắng */
+    text-decoration: none; /* Loại bỏ gạch dưới chữ */
+}
