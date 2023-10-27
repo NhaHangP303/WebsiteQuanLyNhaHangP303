@@ -1,0 +1,180 @@
+.register-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue);
+  width: 778px;
+  height: 746px;
+}
+.rectangle-div,
+.register-child1,
+.register-inner,
+.register-item {
+  position: absolute;
+  top: 209px;
+  left: 871px;
+  background-color: var(--color-white);
+  width: 564px;
+  height: 49px;
+}
+.rectangle-div,
+.register-child1,
+.register-inner {
+  top: 340px;
+  height: 50px;
+}
+.rectangle-div,
+.register-child1 {
+  top: 457px;
+  height: 52px;
+}
+.register-child1 {
+  top: 579px;
+  height: 51px;
+}
+.dangky1 {
+  position: absolute;
+  top: 70px;
+  left: 1050px;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  width: 244px;
+  height: 43px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 257px;
+  left: 871px;
+  width: 564px;
+  height: 2px;
+}
+.register-child2,
+.register-child3,
+.register-child4,
+.register-child5 {
+  position: absolute;
+  top: 645px;
+  left: 873px;
+  width: 564px;
+  height: 2px;
+}
+.register-child3,
+.register-child4,
+.register-child5 {
+  top: 396px;
+}
+.register-child4,
+.register-child5 {
+  top: 519px;
+  left: 871px;
+}
+.register-child5 {
+  top: 125px;
+  left: 1045px;
+  width: 189px;
+  height: 1px;
+}
+.maxacnhan,
+.matkhau,
+.nhap-lai-mk,
+.tentaikhoan {
+  position: absolute;
+  top: 164px;
+  left: 873px;
+  display: inline-block;
+  width: 282px;
+  height: 26px;
+}
+.maxacnhan,
+.matkhau,
+.nhap-lai-mk {
+  top: 297px;
+  left: 871px;
+  width: 193px;
+  height: 27px;
+}
+.maxacnhan,
+.nhap-lai-mk {
+  top: 423px;
+  width: 342px;
+  height: 47px;
+}
+.maxacnhan {
+  top: 541px;
+  width: 284px;
+  height: 26px;
+}
+.register-child6 {
+  position: absolute;
+  top: 669px;
+  left: 1058px;
+  background-color: var(--color-midnightblue);
+  width: 153px;
+  height: 54px;
+}
+.dangky2 {
+  position: absolute;
+  top: 677px;
+  left: 1077px;
+  font-size: 32px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 122px;
+  height: 26px;
+}
+.login-2-icon {
+  position: absolute;
+  top: 206px;
+  left: 887px;
+  width: 45px;
+  height: 48px;
+  object-fit: cover;
+}
+.forgot-1-icon,
+.image-4-icon,
+.login-3-icon,
+.password-2-icon {
+  position: absolute;
+  top: 340px;
+  left: 887px;
+  width: 47px;
+  height: 46px;
+  object-fit: cover;
+}
+.forgot-1-icon,
+.image-4-icon,
+.login-3-icon {
+  top: 462px;
+  height: 47px;
+}
+.image-4-icon,
+.login-3-icon {
+  top: 586px;
+  width: 42px;
+  height: 45px;
+}
+.image-4-icon {
+  top: 54px;
+  left: 45px;
+  width: 688px;
+  height: 639px;
+}
+.register {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 746px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-roboto);
+}
+#username {
+  position: absolute;
+  top: 1270px;
+  left: 247px;
+  height: 33px;
+  width: 320px;
+
+}
